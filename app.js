@@ -2,7 +2,7 @@
 
 process.stdout.write("Ejercicio\n\n");
 
-let nombreAprendiz = 'juan jose';
+let nombreAprendiz = 'juan pablo';
 let apellidoAprendiz= 'bernal '
 
 let nombreCompletoAprendiz = nombreAprendiz[0].toUpperCase()+
